@@ -73,6 +73,7 @@ Sample Output
 ==============================================
     Welcome to the Python Attendance Tracker
 ==============================================
+
 This tool helps record and summarize daily attendance.
 
 How many attendance entries do you want to record? 3
