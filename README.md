@@ -24,22 +24,27 @@ Tasks Implemented
 Task 1: Setup & Initialization
 - Created folder: attendance_tracker
 - Created file: tracker.py
-- Added comment header and printed welcome message  
+- Added comment header and printed welcome message
+ 
 Task 2: Input & Data Collection
 - Used input() to accept student names and check-in times  
 - Stored data in a dictionary:  
-  `python
+  python
   attendance = { "Riya Sharma": "09:00 AM" }
+  
 Task 3: Data Validation
 - Ensured names and timestamps are not empty  
-- Prevented duplicate entries  
+- Prevented duplicate entries
+  
 Task 4: Attendance Summary
 - Displayed tabular attendance report using f-strings and alignment  
-- Counted total students present  
+- Counted total students present
+  
 Task 5: Absentee Validation (Optional)
 - Asked total class strength  
 - Calculated number of absentees  
-- Displayed total present and absent counts  
+- Displayed total present and absent counts
+
 Task 6: Save Report (Bonus)
 - Asked if the user wants to save attendance  
 - Wrote report to attendance_log.txt with current date & time  
@@ -58,7 +63,6 @@ How to Run the Program
 3. Open a terminal or IDE and run:
    bash
    python tracker.py
-   
 4. Follow on-screen instructions to record attendance.
 
 ---
