@@ -20,6 +20,7 @@ The system allows users to:
 This assignment demonstrates Python programming foundations — including input/output, lists, dictionaries, conditionals, loops, and string formatting.
 
 Tasks Implemented
+
 Task 1: Setup & Initialization
 - Created folder: attendance_tracker
 - Created file: tracker.py
