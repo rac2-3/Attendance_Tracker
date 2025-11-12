@@ -1,0 +1,12 @@
+Attendance Report
+Date 12-11-2025 200136
+------------------------------------------
+Student Name         Check-in Time  
+------------------------------------------
+Raj Tilak Singh      07:00 AM       
+Ankit Kumar          07:00 AM       
+Ravi Kumar           07:15 AM       
+Aman Sharma          07:30 AM       
+Harsh Bhardwaj       07:30 AM       
+------------------------------------------
+Total Present 5
